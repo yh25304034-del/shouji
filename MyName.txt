@@ -12,3 +12,4 @@ volt
 japan
 
 shoji
+yuma
