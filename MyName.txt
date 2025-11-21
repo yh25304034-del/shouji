@@ -5,3 +5,5 @@ tension
 baka
 happy
 unhappy
+
+understand
